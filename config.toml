@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh-cn'
+title = 'Redis文档'
+
+theme = 'hugo-book'
