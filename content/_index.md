@@ -1,6 +1,5 @@
 ---
 title: Redis文档
-linkTitle: Documentation
 type: docs
 ---
 
