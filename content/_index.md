@@ -7,7 +7,7 @@ type: docs
 
 欢迎阅读Redis文档。
 
-[Redis简介](/docs/example/)
+[Redis简介](/docs/about/)
 
 了解Redis开源项目
 
@@ -19,7 +19,7 @@ type: docs
 
 学习如何使用Redis界面
 
-[Redis数据类型](/docs/example/)
+[Redis数据类型](/docs/data-types/)
 
 Redis支持的数据类型概述
 
