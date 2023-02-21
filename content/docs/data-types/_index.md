@@ -2,6 +2,7 @@
 title: "数据类型"
 weight: 1
 bookFlatSection: false
+bookCollapseSection: true
 ---
 
 # Redis 的数据类型
